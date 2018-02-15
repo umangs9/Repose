@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/JAR Files/json-simple-1.1.jar"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_DSL_SUPPORT"/>
+	<classpathentry kind="lib" path="C:/JAR Files/spring-1.5.9.RELEASE/lib/spring-boot-cli-1.5.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/spring-boot-cli-1.5.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/spring-boot-cli-1.5.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/spring-boot-cli-1.5.9.RELEASE-full.jar"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_SUPPORT"/>
+	<classpathentry kind="lib" path="C:/JAR Files/spring 4.3.1/spring-aop-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/spring 4.3.1/spring-beans-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/spring 4.3.1/spring-context-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/spring 4.3.1/spring-core-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/spring 4.3.1/spring-expression-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/spring 4.3.1/spring-web-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
